@@ -2,7 +2,7 @@
 session_start();
 error_reporting(0);
 
-$controllerPath = __DIR__ . '/../controllers/adminController.php';
+$controllerPath = __DIR__ . '/../controller/adminController.php';
 
 if (file_exists($controllerPath)) {
     include $controllerPath;

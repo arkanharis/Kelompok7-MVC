@@ -7,7 +7,7 @@ include('../includes/dbconnection.php');
 if (strlen($_SESSION['cvmsaid']) == 0) {
     header('location:logout.php');
 } else {
-    include_once('../controllers/departmentsController.php');
+    include_once('../controller/departmentsController.php');
     $departmentsController = new departmentsController();
 
     if(isset($_POST['submit'])) {
