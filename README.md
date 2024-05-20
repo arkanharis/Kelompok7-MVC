@@ -17,12 +17,11 @@ This is the project where our team has developed both the Company Visitor Manage
 * Open the application in your browser by visiting http://localhost:8080
 
 <br>
-<br>
 
 ## Contributors
-* M.Arkan Haris
-* Alhusna Hanifah
-* Nurul Uzatun Nashyriah
-* Zahra Zafira
-* Fadli Ahmad Yazid
-* Azri Harniza
+* M.Arkan Haris (2208107010022)
+* Alhusna Hanifah (2208107010060)
+* Nurul Uzratun Nashriyyah (2208107010030)
+* Zahra Zafira (2208107010040)
+* Fadli Ahmad Yazid (2208107010032)
+* Azri Harniza (2208107010034)
