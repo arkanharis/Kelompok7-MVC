@@ -92,7 +92,7 @@ if (isset($_POST['submit'])) {
                                 <div class="social-login-content">
                                     <div class="login-checkbox">
                                     <label>
-                                        <a href="index.php">Sign in</a>
+                                        <a href="../index.php">Sign in</a>
                                     </label>
                                 </div> 
                                 </div>
