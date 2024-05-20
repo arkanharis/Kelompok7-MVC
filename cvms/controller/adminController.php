@@ -2,7 +2,13 @@
 	//include class model
 	//include "../models/visitorModel.php";
 
-    include_once "../models/adminModel.php";
+    $modelPath = __DIR__ . '/../models/adminModel.php';
+
+	if (file_exists($modelPath)) {
+		include $modelPath;
+	} else {
+		die("Error: File not found at path: $modelPath");
+	}
 
 class adminController {
     public $adminModel;
